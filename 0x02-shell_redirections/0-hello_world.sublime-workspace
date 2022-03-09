@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_1"
+			],
+			[
+				"you",
+				"your"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"a",
+				"AccountNumber"
+			],
+			[
+				"phone",
+				"phoneNumber"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"fony",
+				"font-family\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"p",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/SHEEY/websites/collection/About us.html",
+		"/C/xampp/htdocs/Ronsheey Car Dealers/index.html",
+		"/C/xampp/htdocs/Ronsheey Car Dealers/Home.html",
+		"/C/xampp/htdocs/V&R/www.siliconsolutions.co.ke/assets/bootstrap/css/bootstrap.min.css",
+		"/E/SHEEY/websites/collection/About.html",
+		"/E/SHEEY/websites/collection/Ronsheey Collection.html",
+		"/E/SHEEY/websites/sili.html",
+		"/C/xampp/htdocs/V&R/www.siliconsolutions.co.ke/index.html",
+		"/C/xampp/htdocs/php codes/learn.php",
+		"/C/xampp/htdocs/V&R/ussd.php",
+		"/C/xampp/htdocs/veehicle/vehicle.html",
+		"/C/xampp/htdocs/Ronsheey Car Dealers/bootstrap.min.css",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/forms/style.css",
+		"/C/xampp/htdocs/Ronsheey Car Dealers/car.css",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/cs.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/forms/login.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/vinro.html",
+		"/C/Users/SHEEY/Desktop/vehicle/index.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/home automation/registration/login.php",
+		"/C/Users/SHEEY/Desktop/oracle/static.oracle.com/cdn/apm/1.46.0/apmeum.js",
+		"/C/xampp/htdocs/park.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/park.html",
+		"/C/Users/SHEEY/Desktop/vehicle/www.projectsof8051.com/automatic-car-parking-indicator-system/index3d23.html",
+		"/C/Users/SHEEY/Desktop/vehicle/www.projectsof8051.com/automatic-car-parking-indicator-system/index.html",
+		"/C/xampp/htdocs/V&R/www.siliconsolutions.co.ke/assets/css/animate.css",
+		"/C/xampp/htdocs/V&R/www.siliconsolutions.co.ke/cdn-cgi/l/email-protection.html",
+		"/C/xampp/htdocs/V&R/www.siliconsolutions.co.ke/assets/css/style.css",
+		"/C/Users/SHEEY/Desktop/silicon/www.siliconsolutions.co.ke/assets/owlcarousel/js/owl.carousel.min.js",
+		"/C/Users/SHEEY/Desktop/silicon/index.html",
+		"/C/Users/SHEEY/Desktop/silicon/www.siliconsolutions.co.ke/index.html",
+		"/C/xampp/htdocs/V&R/index.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/V&R/www.siliconsolutions.co.ke/assets/venobox/css/preload-circle.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/V&R/index.html",
+		"/C/xampp/htdocs/system/header.php",
+		"/C/xampp/htdocs/system/headers.html",
+		"/C/xampp/htdocs/system/gen.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/index.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/ABOUT_US.html",
+		"/C/xampp/htdocs/system/require.php",
+		"/C/xampp/htdocs/system/signup.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/course.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/gender.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/image.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/cookie.html",
+		"/C/Users/SHEEY/Desktop/silicon.whtt",
+		"/C/Users/SHEEY/Desktop/vehicle.whtt",
+		"/C/xampp/htdocs/ussd.php",
+		"/C/xampp/htdocs/system/header.html",
+		"/C/xampp/htdocs/system/headers,html",
+		"/C/xampp/htdocs/pages/helloworld.php",
+		"/C/xampp/htdocs/pages/Embed.php",
+		"/C/xampp/htdocs/log-in system/form.php",
+		"/C/xampp/htdocs/log-in system/db.php",
+		"/C/xampp/htdocs/form/login.php",
+		"/C/xampp/htdocs/login.php",
+		"/C/xampp/htdocs/hospital/hms/get_doctor.php",
+		"/C/xampp/htdocs/hospital/hms/change-password.php",
+		"/C/xampp/htdocs/hospital/hms/check_availability.php",
+		"/C/xampp/htdocs/hospital/hms/appointment-history.php",
+		"/C/xampp/htdocs/pages/kama.php",
+		"/C/xampp/htdocs/GSHK/blog.php",
+		"/C/xampp/htdocs/hostel/studentprofile.php",
+		"/C/xampp/htdocs/hostel/viewbilling.php",
+		"/C/xampp/htdocs/hostel/menu.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/HospitalManagementSystemProject/hospital/index.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/HospitalManagementSystemProject/hospital/index (2).html",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/HospitalManagementSystemProject/hospital/contact.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/HospitalManagementSystemProject/hospital/contact (2).php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/single-blog.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/sidebar.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/menu.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/logout.php",
+		"/C/xampp/htdocs/kamau.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/login.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/index.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/home.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/contact.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/blogs.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/about.php",
+		"/C/xampp/htdocs/kamau.php.php",
+		"/C/xampp/htdocs/log.php.php",
+		"/C/xampp/htdocs/login.php.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/hello.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/Untitled-1.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/button.h",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/hospital website.html",
+		"/C/Users/SHEEY/Desktop/SHEEY/VC/Online_Football_Club_Management_System/banner.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/about.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/dm.php",
+		"/C/Users/SHEEY/Desktop/SHEEY/websites/blog.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "0-hello_world.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
